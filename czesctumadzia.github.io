@@ -12,18 +12,15 @@
             h3{color: rgb(190, 255, 255);
                  background-color: rgb(186, 0, 186) }
             h4 {color:rgb(255, 0, 0);}
-             body {
-            background-color: rgb(255, 80, 161);  }
-        #opisflaminga {
-            color: rgb(99, 9, 63);}
-        #cechy {    color: rgb(40, 0, 86);}
-        </style>
+           
+            
+       </style>
     </head>
     <body>
         <h1>Wilk szaryy</h1>
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Canis_lupus_laying.jpg/800px-Canis_lupus_laying.jpg" width="300">
          
-        <h2></h2>
+        <h2>Wygląd</h2>
         <p id="opiswilkaszarego">Wilk szary (Canis lupus)– gatunek drapieżnego ssaka z rodziny psowatych (Canidae)  </p>
         <h3 id="występowanie">Występowanie</h3>
         <p>  
